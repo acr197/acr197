@@ -1,7 +1,9 @@
 # Nice to meet you 👋
 
-I use AI and automation to solve real-world problems in data and operations.
-Not a developer by title, but fluent in their tools, logic, and language. I build the stuff they don’t have time for - and make it work.
+I use AI and automation to modernize outdated workflows in data, marketing, and operations.  
+Not a developer by title—but I speak the language, understand the pain points, and move fast.
+
+If it’s too small for engineering but too annoying to ignore, I’ll automate it with AI tools. It’s how I keep teams moving fast without burning budget.
 
 ## 🛠 Tech I Use
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -14,7 +16,6 @@ Not a developer by title, but fluent in their tools, logic, and language. I buil
 ## ⚙️ Recent Projects
 - **Offer Auto-Adder**: AI-assisted browser script to auto-activate credit card offers across multiple banks using error handling and login logic
 - **Home Assistant Automations**: YAML routines generated with ChatGPT to streamline smart home controls based on location, triggers, devices, and idle time
-- **VBA Trafficking Formatter**: Used in pharma media ops; reduced trafficking errors by nearly 50%, now part of client workflow QA
 
 ## 💡 Learning Now
 - LLM-powered workflow tools  
