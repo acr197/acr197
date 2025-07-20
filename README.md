@@ -1,7 +1,7 @@
 # Nice to meet you 👋
 
 I use AI and automation to solve real-world problems in data and operations.
-Not a developer by title, but fluent in their tools, logic, and language. I build the stuff they don’t have time for—and make it work.
+Not a developer by title, but fluent in their tools, logic, and language. I build the stuff they don’t have time for - and make it work.
 
 ## 🛠 Tech I Use
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
