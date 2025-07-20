@@ -21,6 +21,14 @@ Not a developer by title, but fluent in their tools, logic, and language. I buil
 - LangChain + prompt engineering  
 - Lightweight ops automation
 
+## 📚 Coursework & Certs
+- **Data Visualization with Python** – Modal.io  
+- **Data Analysis with SQL** – Modal.io  
+- **Front End Web Development** – General Assembly  
+- **Campaign Manager Certified** – Google
+- **Brand Safety Marketing Certified** – DoubleVerify
+
+
 ## 🤖 Fun Fact
 - Drummer in a band, powered by caffeine and 4/4 time.
 - 20+ countries on points—travel hacking is my other automation.
