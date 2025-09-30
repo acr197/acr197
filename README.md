@@ -1,25 +1,19 @@
 # Nice to meet you 👋
 
-I use AI and automation to modernize outdated workflows in data, marketing, and operations.  
-Not a developer by title—but I speak the language, understand the pain points, and move fast.
+This GitHub showcases how I use automation and data enablement to improve marketing technology workflows and make BI teams’ lives easier.
 
-If it’s too small for engineering but too annoying to ignore, I’ll automate it with AI tools. It’s how I keep teams moving fast without burning budget.
+- I work at the intersection of **data enablement, marketing operations, media technology, and workflow automation**.  
+- My background is in ad operations and data, and now I wrangle governance, dashboards, and automation — the boring-but-critical stuff that keeps BI teams productive. My unofficial KPI? How many analysts made it through reporting week without rage-slamming their laptops shut.
+- Not a developer by trade, but I wield SQL, VBA, and Python to turn “repeat this 100 times” into “done in one script.”
 
-## 🛠 Tech I Use
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![VBA](https://img.shields.io/badge/-Excel%20VBA-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-10a37f?style=flat&logo=openai&logoColor=white)
-![YAML](https://img.shields.io/badge/-YAML-000000?style=flat&logo=yaml&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
-## ⚙️ Recent Projects
-- **Offer Auto-Adder**: AI-assisted browser script to auto-activate credit card offers across multiple banks using error handling and login logic
-- **Home Assistant Automations**: YAML routines generated with ChatGPT to streamline smart home controls based on location, triggers, devices, and idle time
+## ⚙️ What You’ll Find Here
+- **Capstone Project (Modal.io)**: Automating a weekly cross-client reporting process with prompt engineering
+- **Work Automation**: VBA + API mashups to replace tedious manual reporting  
+- **Home Projects**: Smart-home automations and browser scripts (because if it’s repetitive, I’ll automate it)  
 
 ## 💡 Learning Now
 - LLM-powered workflow tools  
-- LangChain + prompt engineering  
+- Retrieval-Augmented Generation (RAG) + prompt engineering
 - Lightweight ops automation
 
 ## 📚 Coursework & Certs
@@ -29,8 +23,7 @@ If it’s too small for engineering but too annoying to ignore, I’ll automate 
 - **Campaign Manager Certified** – Google
 - **Brand Safety Marketing Certified** – DoubleVerify
 
-
-## 🤖 Fun Fact
-- Drummer in a band, powered by caffeine and 4/4 time.
+## 🤖 Fun Facts
+- Drumming in a band, powered by caffeine and 4/4 time.
 - 20+ countries on points—travel hacking is my other automation.
-- Once hiked Kilimanjaro. It would be fun they said. I am still recovering.
+- Why not hike Kilimanjaro, they said. It would be fun, they said. I am still recovering.
