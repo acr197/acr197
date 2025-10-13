@@ -1,14 +1,15 @@
 # Nice to meet you 👋
 
-This GitHub showcases how I use automation and data enablement to improve marketing technology workflows and make BI teams’ lives easier.
+This GitHub is where I share and brag about turning  messy marketing workflows and non-work everyday redious tasks into clean, automated systems that make everybody's lives easier.
 
-- I work at the intersection of **data enablement, marketing operations, media technology, and workflow automation**.  
-- My background is in ad operations and data, and now I wrangle governance, dashboards, and automation — the boring-but-critical stuff that keeps BI teams productive. My unofficial KPI? How many analysts made it through reporting week without rage-slamming their laptops shut.
-- Not a developer by trade, but I wield SQL, VBA, and Python to turn “repeat this 100 times” into “done in one script.”
+* I work at the intersection of **data enablement, marketing ops, media tech, and workflow automation**.
+* I started in ad ops and data, now I tame dashboards, governance, and reporting so analysts survive reporting week.
+* Not a developer by trade, but I make SQL, VBA, and Python do the heavy lifting.
 
 ## ⚙️ What You’ll Find Here
 - **Capstone Project (Modal.io)**: Automating a weekly cross-client reporting process with prompt engineering
-- **Work Automation**: VBA + API mashups to replace tedious manual reporting  
+- **Work Automation**: VBA + API mashups to replace tedious manual reporting
+- **BI RAG Project**: Building an AI chatbot that answers work questions using onboarding and training documents as context
 - **Home Projects**: Smart-home automations and browser scripts (because if it’s repetitive, I’ll automate it)  
 
 ## 💡 Learning Now
