@@ -1,19 +1,18 @@
 # Nice to meet you 👋
 
-This GitHub is where I share and brag about turning  messy marketing workflows and non-work everyday redious tasks into clean, automated systems that make everybody's lives easier.
+This GitHub is where I share and brag about using AI to turn messy marketing workflows and tasks into clean, automated products and automations that make everybody's lives easier.
 
-* I work at the intersection of **data enablement, marketing ops, media tech, and workflow automation**.
-* I started in ad ops and data, now I tame dashboards, governance, and reporting so analysts survive reporting week.
-* Not a developer by trade, but I make SQL, VBA, and Python do the heavy lifting.
+* My past and current work intersects **data governance, marketing operations, media technology, workflow automation, fintech, and product conceptualization to creation**.
 
 ## ⚙️ What You’ll Find Here
-- **Capstone Project (Modal.io)**: Automating a weekly cross-client reporting process with prompt engineering
+- **Capstone Project (Modal.io)**: Automating a weekly cross-client reporting process with LLM prompt engineering
 - **Work Automation**: VBA + API mashups to replace tedious manual reporting
 - **BI RAG Project**: Building an AI chatbot that answers work questions using onboarding and training documents as context
-- **Home Projects**: Smart-home automations and browser scripts (because if it’s repetitive, I’ll automate it)  
+- **Home Projects**: Smart-home automations and browser scripts (because if it’s repetitive, I’ll automate it)
+- **Chrome Extension**: I used AI to build a Chrome extension because I didn't like any others. One-click overview of investment, with instant AI-powered insights
 
 ## 💡 Learning Now
-- LLM-powered workflow tools  
+- Agentic AI workflow, working with engineers on three agents to integrate AI into six processes I automated last year
 - Retrieval-Augmented Generation (RAG) + prompt engineering
 - Lightweight ops automation
 
@@ -23,6 +22,7 @@ This GitHub is where I share and brag about turning  messy marketing workflows a
 - **Front End Web Development** – General Assembly  
 - **Campaign Manager Certified** – Google
 - **Brand Safety Marketing Certified** – DoubleVerify
+- **Marketing Hub Software Certification** – HubSpot 
 
 ## 🤖 Fun Facts
 - Drumming in a band, powered by caffeine and 4/4 time.
