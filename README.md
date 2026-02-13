@@ -1,21 +1,21 @@
 # Nice to meet you 👋
 
-This GitHub is where I share and brag about using AI to turn messy workflows and everyday annoyances into clean, user-friendly products and automations that make everybody's lives easier.
+This GitHub is where I share and nerd out about using AI to turn messy marketing workflows and tasks into clean, automated products and automations that make everybody's lives easier.
 
 ## 🧩 My experience spans multiple roles:
-**Data Governance
-Marketing Operations
-Media Technology
-Fintech Compliance/AML
-Workflow Automation
-Product-minded tool building, from conceptualization to creation**
+* Data governance
+* Marketing operations
+* Media technology
+* Fintech
+* Workflow automation
+* Product-minded tool building; from conceptualization to creation
 
-Check out my [LinkedIn](https://www.linkedin.com/in/andrewry/) and reach out!
+Check out my [LinkedIn](https://www.linkedin.com/in/AndrewRy) and reach out!
 
 ## ⚙️ What You’ll Find Here
 - **Capstone AI Project (Modal.io)**: Automating a weekly cross-client reporting process with LLM prompt engineering
 - **Work Automation**: VBA + API mashups to replace tedious manual reporting
-- **BI RAG Project**: AI assistant that answers questions using sanitized docs and recordings as context
+- **Analytics RAG Project**: AI assistant that answers questions using sanitized docs, decks, and transcripts as context
 - **Home Projects**: Smart-home automations and browser scripts for finance
 - **Chrome Extension**: AI-built extension for a one-click investment snapshot with instant AI insights
 
@@ -25,7 +25,7 @@ Check out my [LinkedIn](https://www.linkedin.com/in/andrewry/) and reach out!
 - Lightweight ops automation
 
 ## 📚 Instructor-Led Courses & Certifications
-- **Data Visualization with Python** – Modal.io 
+- **Data Visualization with Python** – Modal.io  
 - **Data Analysis with SQL** – Modal.io  
 - **Front End Web Development** – General Assembly  
 - **Campaign Manager Certified** – Google
@@ -35,4 +35,4 @@ Check out my [LinkedIn](https://www.linkedin.com/in/andrewry/) and reach out!
 ## 🤖 Fun Facts
 - Drumming in a band, powered by caffeine and 4/4 time.
 - 20+ countries on points—travel hacking is my other automation.
-- Climbed Kilimanjaro; still can't feel my legs.
+- Climbed Kilimanjaro once; still can't feel my legs.
